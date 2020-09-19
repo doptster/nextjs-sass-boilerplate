@@ -23,9 +23,11 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Code analysis or prettier
 
+```bash
 npm run lint
 # or
 Husky git hooks on pre-commit
+```
 
 ## Learn More
 
